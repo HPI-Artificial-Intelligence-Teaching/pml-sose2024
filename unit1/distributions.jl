@@ -128,7 +128,7 @@ function plot_normal_cdf_and_sigmoid(; xs=-4:0.1:4.0)
     plot!(
         xs,
         map(sigmoid, xs),
-        label=L"{\mathrm{logit}}(x)",
+        label=L"{\mathrm{sigmoid}}(x)",
         linewidth=3,
         linecolor=:red,
     )
