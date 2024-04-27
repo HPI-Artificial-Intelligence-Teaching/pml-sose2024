@@ -1,4 +1,4 @@
-# Plots for aspproximate inference for a 1D Gaussian
+# Plots for approximate inference for a 1D Gaussian
 #
 # 2024 by Ralf Herbrich
 # Hasso-Plattner Institute
